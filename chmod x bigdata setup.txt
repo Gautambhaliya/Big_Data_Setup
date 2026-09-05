@@ -1,0 +1,2 @@
+chmod +x bigdata_setup.sh
+./bigdata_setup.sh
